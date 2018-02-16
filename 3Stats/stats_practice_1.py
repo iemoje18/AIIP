@@ -1,5 +1,6 @@
 #This is the file submission for pRACTICE CHALLENGE 1
 
+
 #list dataset
 list_I_x=[10.0,8.0,13.0,9.0,11.0,14.0,6.0,4.0,12.0,7.0,5.0]
 list_I_y=[8.04,6.95,7.58,8.81,8.33,9.96,7.24,4.26,10.84,4.82,5.68]
@@ -70,8 +71,7 @@ plt.show()
 
 
 """
-The summary statistics are not exhibited well using a scatter plot.
-They can be better read using say a bar graph
+The summary statistics are not conclusive and cant be used to solely for data analysis
 
 """
 
